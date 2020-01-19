@@ -20,3 +20,5 @@ public class DemoJenkins {
 			driver.findElement(By.xpath("//*[@id=\"u_0_b\"]")).click();
 			
 }
+	}
+}
